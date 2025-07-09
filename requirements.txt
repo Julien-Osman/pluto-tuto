@@ -1,3 +1,4 @@
+# data_type
 Cartopy==0.24.1
 dask==2024.11.2
 fsspec==2024.10.0
@@ -25,3 +26,15 @@ scipy==1.14.1
 Shapely==2.0.7
 xarray==2024.10.0
 zarr==2.18.3
+
+# ParallelizationTools
+bokeh==3.5.0
+# dask
+dask[distributed]
+folium
+graphviz
+notebook
+# numpy
+# rasterio
+# rioxarray
+# matplotlib
