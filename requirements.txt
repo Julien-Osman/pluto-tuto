@@ -33,8 +33,12 @@ bokeh==3.5.0
 dask[distributed]
 folium
 graphviz
+# matplotlib
 notebook
 # numpy
 # rasterio
 # rioxarray
-# matplotlib
+
+# Geodes
+eodag>=3.0.1
+# folium
